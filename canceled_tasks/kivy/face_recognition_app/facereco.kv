@@ -1,0 +1,16 @@
+<CameraBoxLayout>:
+    orientation: 'vertical'
+    Image:
+        id: video_feed
+        allow_stretch: True
+        keep_ratio: False
+    Label:
+        id: result_label
+        text: "Initializing..."
+        size_hint_y: None
+        height: '48dp'
+    Button:
+        text: "Capture"
+        size_hint_y: None
+        height: '48dp'
+        on_press: root.capture_image()

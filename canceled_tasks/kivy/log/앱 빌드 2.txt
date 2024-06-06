@@ -1,0 +1,138 @@
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_statistics.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/xxlimited_35.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_typing.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/zlib.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/cmath.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_testinternalcapi.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_ctypes.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/fcntl.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_datetime.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/ossaudiodev.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_asyncio.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_struct.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/select.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/xxlimited.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_testcapi.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_testmultiphase.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_lsprof.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_heapq.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_random.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_pickle.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_multibytecodec.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/syslog.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_testimportmultiple.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/math.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_json.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_testclinic.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_xxtestfuzz.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/array.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_sha3.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_queue.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_blake2.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_sha1.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_sha256.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_testbuffer.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_opcode.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/binascii.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_xxsubinterpreters.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_zoneinfo.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_decimal.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_codecs_hk.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_socket.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_sqlite3.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_codecs_iso2022.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/unicodedata.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_codecs_tw.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_multiprocessing.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_ctypes_test.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/pyexpat.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/mmap.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_md5.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_codecs_jp.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_ssl.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_hashlib.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_csv.cpython-311.so
+[INFO]:     - copy /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/android-build/build/lib.linux-aarch64-3.11/_sysconfigdata__linux_aarch64-linux-android.pyc
+[INFO]:    -> directory context /home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/python3/arm64-v8a__ndk_target_21/python3/Lib
+[INFO]:    Zip 604 files into the bundle
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/jhs/face_recognition_app/.buildozer/android/platform/python-for-android/pythonforandroid/toolchain.py", line 1256, in <module>
+    main()
+  File "/home/jhs/face_recognition_app/.buildozer/android/platform/python-for-android/pythonforandroid/entrypoints.py", line 18, in main
+    ToolchainCL()
+  File "/home/jhs/face_recognition_app/.buildozer/android/platform/python-for-android/pythonforandroid/toolchain.py", line 685, in __init__
+    getattr(self, command)(args)
+  File "/home/jhs/face_recognition_app/.buildozer/android/platform/python-for-android/pythonforandroid/toolchain.py", line 104, in wrapper_func
+    build_dist_from_args(ctx, dist, args)
+  File "/home/jhs/face_recognition_app/.buildozer/android/platform/python-for-android/pythonforandroid/toolchain.py", line 170, in build_dist_from_args
+    ctx.bootstrap.assemble_distribution()
+  File "/home/jhs/face_recognition_app/.buildozer/android/platform/python-for-android/pythonforandroid/bootstraps/sdl2/__init__.py", line 41, in assemble_distribution
+    site_packages_dir = self.ctx.python_recipe.create_python_bundle(
+  File "/home/jhs/face_recognition_app/.buildozer/android/platform/python-for-android/pythonforandroid/recipes/python3/__init__.py", line 413, in create_python_bundle
+    shprint(sh.zip, '-X', stdlib_zip, *stdlib_filens)
+  File "/home/jhs/face_recognition_app/venv/lib/python3.8/site-packages/sh.py", line 3548, in __getattr__
+    return self.__env[name]
+  File "/home/jhs/face_recognition_app/venv/lib/python3.8/site-packages/sh.py", line 3330, in __getitem__
+    raise CommandNotFound(k)
+sh.CommandNotFound: zip
+
+
+
+
+
+
+# Command failed: ['/home/jhs/face_recognition_app/venv/bin/python3', '-m', 'pythonforandroid.toolchain', 'create', '--dist_name=facereco', '--bootstrap=sdl2', '--requirements=python3,kivy,opencv-python,face_recognition,cython,pyjnius,requests', '--arch=arm64-v8a', '--arch=armeabi-v7a', '--copy-libs', '--color=always', '--storage-dir=/home/jhs/face_recognition_app/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a', '--ndk-api=21', '--ignore-setup-py', '--debug']
+# ENVIRONMENT:
+#     SHELL = '/bin/bash'
+#     WSL2_GUI_APPS_ENABLED = '1'
+#     WSL_DISTRO_NAME = 'Ubuntu-20.04'
+#     JAVA_HOME = '/usr/lib/jvm/java-8-openjdk-amd64'
+#     NAME = 'DESKTOP-RUSHUAJ'
+#     PWD = '/home/jhs/face_recognition_app'
+#     LOGNAME = 'jhs'
+#     HOME = '/home/jhs'
+#     LANG = 'C.UTF-8'
+#     WSL_INTEROP = '/run/WSL/719_interop'
+#     LS_COLORS = 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'
+#     VIRTUAL_ENV = '/home/jhs/face_recognition_app/venv'
+#     WAYLAND_DISPLAY = 'wayland-0'
+#     LESSCLOSE = '/usr/bin/lesspipe %s %s'
+#     ANDROID_HOME = '/home/jhs/.buildozer/android/platform/android-sdk'
+#     TERM = 'xterm-256color'
+#     LESSOPEN = '| /usr/bin/lesspipe %s'
+#     USER = 'jhs'
+#     NDK_HOME = '/home/jhs/.buildozer/android/platform/android-ndk-21.4.7075529'
+#     DISPLAY = ':0'
+#     SHLVL = '1'
+#     XDG_RUNTIME_DIR = '/run/user/1000/'
+#     PS1 = ('(venv) \\[\\e]0;\\u@\\h: '
+ '\\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ ')
+#     WSLENV = ''
+#     XDG_DATA_DIRS = '/usr/local/share:/usr/share:/var/lib/snapd/desktop'
+#     PATH = ('/home/jhs/.buildozer/android/platform/apache-ant-1.9.4/bin:/home/jhs/face_recognition_app/venv/bin:/usr/lib/jvm/java-8-openjdk-amd64/bin:/home/jhs/.buildozer/android/platform/android-ndk-21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program '
+ 'Files/Docker/Docker/resources/bin:/mnt/c/Program '
+ 'Files/CMake/bin:/mnt/c/Users/J-FAM/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/J-FAM/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/J-FAM/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program '
+ 'Files/JetBrains/PyCharm 2023.2/bin:/mnt/c/Program Files/JetBrains/PyCharm '
+ 'Community Edition '
+ '2023.2/bin:/mnt/c/Users/J-FAM/AppData/Local/Programs/Microsoft VS '
+ 'Code/bin:/mnt/c/Users/J-FAM/anaconda3/Library:/snap/bin:/home/jhs/.buildozer/android/platform/android-sdk/emulator:/home/jhs/.buildozer/android/platform/android-sdk/tools:/home/jhs/.buildozer/android/platform/android-sdk/tools/bin:/home/jhs/.buildozer/android/platform/android-sdk/platform-tools:/home/jhs/.buildozer/android/platform/android-ndk-21.4.7075529')
+#     DBUS_SESSION_BUS_ADDRESS = 'unix:path=/run/user/1000/bus'
+#     HOSTTYPE = 'x86_64'
+#     PULSE_SERVER = 'unix:/mnt/wslg/PulseServer'
+#     OLDPWD = '/home/jhs'
+#     _ = '/home/jhs/face_recognition_app/venv/bin/buildozer'
+#     PACKAGES_PATH = '/home/jhs/.buildozer/android/packages'
+#     ANDROIDSDK = '/home/jhs/.buildozer/android/platform/android-sdk'
+#     ANDROIDNDK = '/home/jhs/.buildozer/android/platform/android-ndk-r25b'
+#     ANDROIDAPI = '31'
+#     ANDROIDMINAPI = '21'
+#
+# Buildozer failed to execute the last command
+# The error might be hidden in the log above this error
+# Please read the full log, and search for it before
+# raising an issue with buildozer itself.
+# In case of a bug report, please add a full log with log_level = 2
