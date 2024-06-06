@@ -1,0 +1,6 @@
+[submodule "canceled_tasks/deeplearning_model/edgeface_test/edgeface"]
+	path = canceled_tasks/deeplearning_model/edgeface_test/edgeface
+	url = https://github.com/otroshi/edgeface.git
+[submodule "canceled_tasks/deeplearning_model/yolov5_test/yolov5"]
+	path = canceled_tasks/deeplearning_model/yolov5_test/yolov5
+	url = https://github.com/ultralytics/yolov5.git
