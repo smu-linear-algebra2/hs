@@ -1,0 +1,3 @@
+python train.py --img 640 --batch 16 --epochs 100 --data C:/smu/linear_algebra/data/yongan/test01dataset.yaml --cfg models/yolov5s.yaml --weights yolov5s.pt
+
+python train.py --img 640 --batch 16 --epochs 100 --data ./data/yongan/test01/dataset.yaml --cfg models/yolov5s.yaml --weights yolov5s.pt

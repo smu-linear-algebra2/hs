@@ -1,0 +1,74 @@
+cygwin이 안되서 Windows Subsystem for Linux (WSL)로 갈아탐
+
+microsoft store에서 ubuntu 설치하여 진행함.
+
+wsl 환경에서:
+
+sudo apt update
+sudo apt upgrade
+
+wsl 환경에 python3.7 버전을 바로 설치할 수 없어서
+
+sudo add-apt-repository ppa:deadsnakes/ppa : 여러 파이썬 버전이 있는 레포지토리
+
+sudo apt install python3.7 python3.7-venv python3.7-dev python3-pip : 필요한 파이썬 패키지 설치
+
+python 3.7 환경의 가상 환경 만들고
+
+source kivy_venv/bin/activate : 가상환경 실행
+
+가상환경에 필요한 패키지 설치 : 
+pip install --upgrade pip
+pip install cython
+pip install buildozer
+
+kv 파일은 kivy만의 언어로 어플리케이션의 인터페이스를 만들 수 있음.
+
+얼굴인식 모델에 필요한 kv 파일을 만드는 것부터 다시 시작
+
+unzip 설치
+
+
+Manually Download the Android NDK
+
+mkdir -p ~/.buildozer/android/platform
+cd ~/.buildozer/android/platform
+wget https://dl.google.com/android/repository/android-ndk-r25b-linux.zip
+unzip android-ndk-r25b-linux.zip.1
+
+linux sdkmanager 없음 -> sudo apt install android-sdk(안됨), sudo apt install sdkmanager(안됨)
+
+buildozer.spec 을 수정함.
+# (str) Android NDK directory (if empty, it will be automatically downloaded.)
+#android.ndk_path = ~/.buildozer/android/platform/android-sdk
+
+# (str) Android SDK directory (if empty, it will be automatically downloaded.)
+#android.sdk_path = ~/.buildozer/android/platform/android-ndk-r25b
+
+# (str) ANT directory (if empty, it will be automatically downloaded.)
+#android.ant_path = ~/.buildozer/android/platform/apache-ant-1.9.4
+
+
+파일 탐색기에서 \\wsl$\Ubuntu-22.04\home\{사용자 이름} 로 WSL 2의 홈 디렉토리에 접근할 수 있다.
+\\wsl$\Ubuntu-22.04\home\jhs
+
+그렇다면 buildozer.spec 다시 수정.
+# (str) Android NDK directory (if empty, it will be automatically downloaded.)
+#android.ndk_path = //wsl$/Ubuntu-22.04/home/jhs/.buildozer/android/platform/android-sdk
+
+# (str) Android SDK directory (if empty, it will be automatically downloaded.)
+#android.sdk_path = //wsl$/Ubuntu-22.04/home/jhs/.buildozer/android/platform/android-ndk-r25b
+
+# (str) ANT directory (if empty, it will be automatically downloaded.)
+#android.ant_path = //wsl$/Ubuntu-22.04/home/jhs/.buildozer/android/platform/apache-ant-1.9.4
+
+wsl에 android sdk를 리포지토리로 직접 다운 받았는데, 압축해제할때, 터미널에서 경로 설정을 잘못한것 같음.
+sdkmanager가 지정된 경로에 있도록 압축을 해제했더니 다음으로 넘어감.
+
+sdk를 다른 버전을 다운 받았더니 해결됨 https://github.com/NativeScript/nativescript-cli/issues/5304
+
+
+------------------------------------
+
+sdk를 처음부터 다시 설치. 우분투 내의 파일이 파일 탐색기에서 이동시키거나 삭제가 안될때는 우분투 터미널 내에서 명령어로 삭제해야한다.
+읽기 전요이라서 그렇다고 한거같기도하고. 확실하지는 않음.

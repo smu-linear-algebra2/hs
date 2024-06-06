@@ -1,0 +1,19 @@
+python37 (this installs Python 3.7)
+python37-pip (pip for Python 3.7)
+python37-setuptools (setuptools for Python 3.7)
+git
+zip
+unzip
+gcc-core
+gcc-g++
+make
+python37 virtualenv
+
+터미널 내에서 pip3 install virtualenv
+
+# virtualenv로 python 3.7 가상환경 만들기
+# 가상환경 이름 = pyvenv3.7,	버전 = 3.7
+$ virtualenv pyvenv3.7 --python=python3.7
+
+# 가상환경 실행
+$ source kivy_venv/scripts/activate
